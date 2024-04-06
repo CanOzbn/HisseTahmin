@@ -1,5 +1,9 @@
 # HisseTahmin
 Proje, eğitim amaçlıdır ve gerçek zamanlı yatırım kararları için kullanılmamalıdır.
-Bu projede, DOAŞ (Dünya Otomobil Şirketi) ve THY (Türk Hava Yolları) şirketlerinin hisselerinin gelecek tahminlerini yapmak için bir dizi analiz ve modelleme gerçekleştirdim. Aşağıda eğitim amaçlı olarak grafikleri ve sonuçları paylaşıyorum.
+Bu projede, DOAŞ (Dünya Otomobil Şirketi) hisselerinin gelecek tahminlerini yapmak için bir dizi analiz ve modelleme gerçekleştirdim. Aşağıda eğitim amaçlı olarak grafiklerini ve sonuçlarını paylaşıyorum.
 ![image](https://github.com/CanOzbn/HisseTahmin/assets/115269362/d5988f79-b423-4626-bc8f-29ccc1a05065)
-![image](https://github.com/CanOzbn/HisseTahmin/assets/115269362/4fa4b7c7-431e-4b34-a813-7d3fd065d1d9)
+Son 4 senede hissenin durumuna göre tahmin yapıyor Sadece hisse değil coin de tahmin edebiliyo. 
+BİTCOİN Tahmini Grafiği 
+![image](https://github.com/CanOzbn/HisseTahmin/assets/115269362/055d558b-6a24-4017-a636-6014e1a21585)
+![image](https://github.com/CanOzbn/HisseTahmin/assets/115269362/89821d51-9d82-4822-9cb0-a7956b69cf99)
+
