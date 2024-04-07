@@ -1,7 +1,7 @@
 # HisseTahmin
 Proje, eğitim amaçlıdır ve gerçek zamanlı yatırım kararları için kullanılmamalıdır.(The project is for educational purposes and should not be used for real-time investment decisions.)
 Bu projede, DOAŞ (Dünya Otomobil Şirketi) hisselerinin gelecek tahminlerini yapmak için bir dizi analiz ve modelleme gerçekleştirdim. Aşağıda eğitim amaçlı olarak grafiklerini ve sonuçlarını paylaşıyorum.
-![image](https://github.com/CanOzbn/HisseTahmin/assets/115269362/d5988f79-b423-4626-bc8f-29ccc1a05065)
+![doaş gelecek tahmin](https://github.com/CanOzbn/HisseTahmin/assets/115269362/4122be6e-1f5a-43f3-a04d-12878b985ce5)
   Son 4 senede hissenin durumuna göre tahmin yapıyor. 
   Sadece hisse değil coin de tahmin edebiliyo. 
 ## BİTCOİN Tahmini Grafiği 
